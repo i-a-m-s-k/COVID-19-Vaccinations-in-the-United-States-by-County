@@ -17,3 +17,7 @@ This project was implemented as a part of the SI 507 Intermediate Python Program
 
 # Environment
 This project was implemented in Visual Studio Code and can be run by typing the command "python SI507_Final_Project.py" in the terminal on opening the .py file. 
+
+# User Interaction
+
+# Data Structure / Visualization Technique
