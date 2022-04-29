@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>COVID-19 Vaccinations in United States by County</title>
+        <subtitle>You will be prompted to select state, Metro/Non-metro counties, and SVI category.</subtitle>
+        <br>
+        <br>
+    </head>
+    <body>
+        <td>
+            <form action = "/final" method = "post">
+                <p>Choose the Social Vulnerability Index (SVI) of A, B, C, or D:</p>
+                <p>To learn more about SVI: <a href = "https://www.nh.gov/epht/documents/svi-factsheet.pdf" >click here</a></p>
+                <input type="radio" name="radgroup" value="A">
+                <label for="A">A</label><br>
+                <input type="radio" name="radgroup" value="B">
+                <label for="B">B</label><br>
+                <input type="radio" name="radgroup" value="C">
+                <label for="C">C</label><br>
+                <input type="radio" name="radgroup" value="D">
+                <label for="D">D</label><br>
+                <br>
+                <br>
+                <input type="submit" value="Submit" id="submit_svi" name="svi">
+            <form>
+        </td>
+    </body>
+</html>
+

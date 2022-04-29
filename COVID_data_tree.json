@@ -1,0 +1,6136 @@
+{
+   "MI": {
+      "Metro": {
+         "A": [
+            [
+               95.2,
+               "Barry County"
+            ],
+            [
+               95.2,
+               "Midland County"
+            ],
+            [
+               95.2,
+               "Livingston County"
+            ],
+            [
+               95.2,
+               "Clinton County"
+            ],
+            [
+               95.2,
+               "Ottawa County"
+            ],
+            [
+               95.2,
+               "Monroe County"
+            ],
+            [
+               95.2,
+               "Lapeer County"
+            ],
+            [
+               95.2,
+               "Washtenaw County"
+            ],
+            [
+               95.2,
+               "Oakland County"
+            ],
+            [
+               95.2,
+               "Oakland County"
+            ],
+            [
+               95.2,
+               "Lapeer County"
+            ],
+            [
+               95.2,
+               "Monroe County"
+            ],
+            [
+               95.2,
+               "Ottawa County"
+            ],
+            [
+               95.2,
+               "Midland County"
+            ],
+            [
+               95.2,
+               "Clinton County"
+            ],
+            [
+               95.2,
+               "Livingston County"
+            ],
+            [
+               95.2,
+               "Barry County"
+            ],
+            [
+               95.2,
+               "Washtenaw County"
+            ],
+            [
+               95.2,
+               "Midland County"
+            ],
+            [
+               95.2,
+               "Monroe County"
+            ]
+         ],
+         "B": [
+            [
+               95.2,
+               "Kent County"
+            ],
+            [
+               95.2,
+               "Cass County"
+            ],
+            [
+               95.2,
+               "St. Clair County"
+            ],
+            [
+               95.2,
+               "Kalamazoo County"
+            ],
+            [
+               95.2,
+               "Bay County"
+            ],
+            [
+               95.2,
+               "Macomb County"
+            ],
+            [
+               95.2,
+               "Eaton County"
+            ],
+            [
+               95.2,
+               "Kent County"
+            ],
+            [
+               95.2,
+               "Eaton County"
+            ],
+            [
+               95.2,
+               "Cass County"
+            ],
+            [
+               95.2,
+               "St. Clair County"
+            ],
+            [
+               95.2,
+               "Kalamazoo County"
+            ],
+            [
+               95.2,
+               "Macomb County"
+            ],
+            [
+               95.2,
+               "Bay County"
+            ],
+            [
+               95.2,
+               "Kent County"
+            ],
+            [
+               95.2,
+               "Cass County"
+            ],
+            [
+               95.2,
+               "St. Clair County"
+            ],
+            [
+               95.2,
+               "Bay County"
+            ],
+            [
+               95.2,
+               "Eaton County"
+            ],
+            [
+               95.2,
+               "Macomb County"
+            ]
+         ],
+         "C": [
+            [
+               95.2,
+               "Calhoun County"
+            ],
+            [
+               95.2,
+               "Muskegon County"
+            ],
+            [
+               95.2,
+               "Jackson County"
+            ],
+            [
+               95.2,
+               "Genesee County"
+            ],
+            [
+               95.2,
+               "Ingham County"
+            ],
+            [
+               95.2,
+               "Van Buren County"
+            ],
+            [
+               95.2,
+               "Saginaw County"
+            ],
+            [
+               95.2,
+               "Berrien County"
+            ],
+            [
+               95.2,
+               "Montcalm County"
+            ],
+            [
+               95.2,
+               "Genesee County"
+            ],
+            [
+               95.2,
+               "Van Buren County"
+            ],
+            [
+               95.2,
+               "Montcalm County"
+            ],
+            [
+               95.2,
+               "Ingham County"
+            ],
+            [
+               95.2,
+               "Calhoun County"
+            ],
+            [
+               95.2,
+               "Muskegon County"
+            ],
+            [
+               95.2,
+               "Saginaw County"
+            ],
+            [
+               95.2,
+               "Jackson County"
+            ],
+            [
+               95.2,
+               "Berrien County"
+            ],
+            [
+               95.2,
+               "Saginaw County"
+            ],
+            [
+               95.2,
+               "Montcalm County"
+            ]
+         ],
+         "D": [
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.2,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ],
+            [
+               95.3,
+               "Wayne County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               95.2,
+               "Antrim County"
+            ],
+            [
+               95.2,
+               "Keweenaw County"
+            ],
+            [
+               95.2,
+               "Shiawassee County"
+            ],
+            [
+               95.2,
+               "Allegan County"
+            ],
+            [
+               95.2,
+               "Dickinson County"
+            ],
+            [
+               95.2,
+               "Grand Traverse County"
+            ],
+            [
+               95.2,
+               "Benzie County"
+            ],
+            [
+               95.2,
+               "Leelanau County"
+            ],
+            [
+               95.2,
+               "Charlevoix County"
+            ],
+            [
+               95.2,
+               "Emmet County"
+            ],
+            [
+               95.2,
+               "Charlevoix County"
+            ],
+            [
+               95.2,
+               "Antrim County"
+            ],
+            [
+               95.2,
+               "Grand Traverse County"
+            ],
+            [
+               95.2,
+               "Leelanau County"
+            ],
+            [
+               95.2,
+               "Benzie County"
+            ],
+            [
+               95.2,
+               "Keweenaw County"
+            ],
+            [
+               95.2,
+               "Dickinson County"
+            ],
+            [
+               95.2,
+               "Allegan County"
+            ],
+            [
+               95.2,
+               "Shiawassee County"
+            ],
+            [
+               95.2,
+               "Emmet County"
+            ]
+         ],
+         "B": [
+            [
+               95.2,
+               "Otsego County"
+            ],
+            [
+               95.2,
+               "Montmorency County"
+            ],
+            [
+               95.2,
+               "Ontonagon County"
+            ],
+            [
+               95.2,
+               "Roscommon County"
+            ],
+            [
+               95.2,
+               "Sanilac County"
+            ],
+            [
+               95.2,
+               "Mason County"
+            ],
+            [
+               95.2,
+               "Delta County"
+            ],
+            [
+               95.2,
+               "Lenawee County"
+            ],
+            [
+               95.2,
+               "Alcona County"
+            ],
+            [
+               95.2,
+               "Houghton County"
+            ],
+            [
+               95.2,
+               "Presque Isle County"
+            ],
+            [
+               95.2,
+               "Tuscola County"
+            ],
+            [
+               95.2,
+               "Crawford County"
+            ],
+            [
+               95.2,
+               "Marquette County"
+            ],
+            [
+               95.2,
+               "Manistee County"
+            ],
+            [
+               95.2,
+               "Huron County"
+            ],
+            [
+               95.2,
+               "Alger County"
+            ],
+            [
+               95.2,
+               "Missaukee County"
+            ],
+            [
+               95.2,
+               "Ionia County"
+            ],
+            [
+               95.2,
+               "Gogebic County"
+            ]
+         ],
+         "C": [
+            [
+               95.2,
+               "Schoolcraft County"
+            ],
+            [
+               95.2,
+               "Arenac County"
+            ],
+            [
+               95.2,
+               "Gratiot County"
+            ],
+            [
+               95.2,
+               "St. Joseph County"
+            ],
+            [
+               95.2,
+               "Ogemaw County"
+            ],
+            [
+               95.2,
+               "Newaygo County"
+            ],
+            [
+               95.2,
+               "Isabella County"
+            ],
+            [
+               95.2,
+               "Oscoda County"
+            ],
+            [
+               95.2,
+               "Mecosta County"
+            ],
+            [
+               95.2,
+               "Mackinac County"
+            ],
+            [
+               95.2,
+               "Kalkaska County"
+            ],
+            [
+               95.2,
+               "Baraga County"
+            ],
+            [
+               95.2,
+               "Wexford County"
+            ],
+            [
+               95.2,
+               "Gladwin County"
+            ],
+            [
+               95.2,
+               "Luce County"
+            ],
+            [
+               95.2,
+               "Chippewa County"
+            ],
+            [
+               95.2,
+               "Osceola County"
+            ],
+            [
+               95.2,
+               "Branch County"
+            ],
+            [
+               95.2,
+               "Hillsdale County"
+            ],
+            [
+               95.2,
+               "Isabella County"
+            ]
+         ],
+         "D": [
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ],
+            [
+               95.2,
+               "Clare County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Lake County"
+            ],
+            [
+               95.2,
+               "Oceana County"
+            ]
+         ]
+      }
+   },
+   "NY": {
+      "Metro": {
+         "A": [
+            [
+               97.6,
+               "Saratoga County"
+            ],
+            [
+               97.6,
+               "Madison County"
+            ],
+            [
+               97.6,
+               "Warren County"
+            ],
+            [
+               97.6,
+               "Ontario County"
+            ],
+            [
+               97.6,
+               "Suffolk County"
+            ],
+            [
+               97.6,
+               "Putnam County"
+            ],
+            [
+               97.6,
+               "Tioga County"
+            ],
+            [
+               97.6,
+               "Nassau County"
+            ],
+            [
+               97.6,
+               "Putnam County"
+            ],
+            [
+               97.6,
+               "Warren County"
+            ],
+            [
+               97.6,
+               "Madison County"
+            ],
+            [
+               97.6,
+               "Ontario County"
+            ],
+            [
+               97.6,
+               "Nassau County"
+            ],
+            [
+               97.6,
+               "Tioga County"
+            ],
+            [
+               97.6,
+               "Saratoga County"
+            ],
+            [
+               97.6,
+               "Suffolk County"
+            ],
+            [
+               97.6,
+               "Saratoga County"
+            ],
+            [
+               97.6,
+               "Suffolk County"
+            ],
+            [
+               97.6,
+               "Nassau County"
+            ],
+            [
+               97.6,
+               "Ontario County"
+            ]
+         ],
+         "B": [
+            [
+               97.6,
+               "Schoharie County"
+            ],
+            [
+               97.6,
+               "Dutchess County"
+            ],
+            [
+               97.6,
+               "Rensselaer County"
+            ],
+            [
+               97.6,
+               "Erie County"
+            ],
+            [
+               97.6,
+               "Richmond County"
+            ],
+            [
+               97.6,
+               "Tompkins County"
+            ],
+            [
+               97.6,
+               "Chemung County"
+            ],
+            [
+               97.6,
+               "Washington County"
+            ],
+            [
+               97.6,
+               "Schenectady County"
+            ],
+            [
+               97.6,
+               "Wayne County"
+            ],
+            [
+               97.6,
+               "Albany County"
+            ],
+            [
+               97.6,
+               "Livingston County"
+            ],
+            [
+               97.6,
+               "Niagara County"
+            ],
+            [
+               97.6,
+               "Ulster County"
+            ],
+            [
+               97.6,
+               "Yates County"
+            ],
+            [
+               97.6,
+               "Schoharie County"
+            ],
+            [
+               97.6,
+               "Rensselaer County"
+            ],
+            [
+               97.6,
+               "Ulster County"
+            ],
+            [
+               97.6,
+               "Wayne County"
+            ],
+            [
+               97.6,
+               "Dutchess County"
+            ]
+         ],
+         "C": [
+            [
+               97.6,
+               "Rockland County"
+            ],
+            [
+               97.6,
+               "Orleans County"
+            ],
+            [
+               97.6,
+               "Onondaga County"
+            ],
+            [
+               97.6,
+               "Broome County"
+            ],
+            [
+               97.6,
+               "Oneida County"
+            ],
+            [
+               97.6,
+               "Oswego County"
+            ],
+            [
+               97.6,
+               "Westchester County"
+            ],
+            [
+               97.6,
+               "New York County"
+            ],
+            [
+               97.6,
+               "Queens County"
+            ],
+            [
+               97.6,
+               "Herkimer County"
+            ],
+            [
+               97.6,
+               "Jefferson County"
+            ],
+            [
+               97.6,
+               "Monroe County"
+            ],
+            [
+               97.6,
+               "Orange County"
+            ],
+            [
+               97.6,
+               "New York County"
+            ],
+            [
+               97.6,
+               "Broome County"
+            ],
+            [
+               97.6,
+               "Rockland County"
+            ],
+            [
+               97.6,
+               "Westchester County"
+            ],
+            [
+               97.6,
+               "Monroe County"
+            ],
+            [
+               97.6,
+               "Onondaga County"
+            ],
+            [
+               97.6,
+               "Oswego County"
+            ]
+         ],
+         "D": [
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Kings County"
+            ],
+            [
+               97.6,
+               "Bronx County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ],
+            [
+               97.6,
+               "Genesee County"
+            ]
+         ],
+         "B": [
+            [
+               97.6,
+               "Columbia County"
+            ],
+            [
+               97.6,
+               "Wyoming County"
+            ],
+            [
+               97.6,
+               "Lewis County"
+            ],
+            [
+               97.6,
+               "Essex County"
+            ],
+            [
+               97.6,
+               "Cortland County"
+            ],
+            [
+               97.6,
+               "Steuben County"
+            ],
+            [
+               97.6,
+               "Schuyler County"
+            ],
+            [
+               97.6,
+               "Hamilton County"
+            ],
+            [
+               97.6,
+               "Greene County"
+            ],
+            [
+               97.6,
+               "Seneca County"
+            ],
+            [
+               97.6,
+               "Otsego County"
+            ],
+            [
+               97.6,
+               "Essex County"
+            ],
+            [
+               97.6,
+               "Cortland County"
+            ],
+            [
+               97.6,
+               "Greene County"
+            ],
+            [
+               97.6,
+               "Wyoming County"
+            ],
+            [
+               97.6,
+               "Steuben County"
+            ],
+            [
+               97.6,
+               "Columbia County"
+            ],
+            [
+               97.6,
+               "Lewis County"
+            ],
+            [
+               97.6,
+               "Otsego County"
+            ],
+            [
+               97.6,
+               "Seneca County"
+            ]
+         ],
+         "C": [
+            [
+               97.6,
+               "Allegany County"
+            ],
+            [
+               97.6,
+               "Cayuga County"
+            ],
+            [
+               97.6,
+               "Chenango County"
+            ],
+            [
+               97.6,
+               "Clinton County"
+            ],
+            [
+               97.6,
+               "Fulton County"
+            ],
+            [
+               97.6,
+               "Franklin County"
+            ],
+            [
+               97.6,
+               "Chautauqua County"
+            ],
+            [
+               97.6,
+               "St. Lawrence County"
+            ],
+            [
+               97.6,
+               "Cattaraugus County"
+            ],
+            [
+               97.6,
+               "Delaware County"
+            ],
+            [
+               97.6,
+               "Allegany County"
+            ],
+            [
+               97.6,
+               "Clinton County"
+            ],
+            [
+               97.6,
+               "St. Lawrence County"
+            ],
+            [
+               97.6,
+               "Cayuga County"
+            ],
+            [
+               97.6,
+               "Delaware County"
+            ],
+            [
+               97.6,
+               "Cattaraugus County"
+            ],
+            [
+               97.6,
+               "Fulton County"
+            ],
+            [
+               97.6,
+               "Franklin County"
+            ],
+            [
+               97.6,
+               "Chenango County"
+            ],
+            [
+               97.6,
+               "Chautauqua County"
+            ]
+         ],
+         "D": [
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Sullivan County"
+            ],
+            [
+               97.6,
+               "Montgomery County"
+            ]
+         ]
+      }
+   },
+   "UT": {
+      "Metro": {
+         "A": [
+            [
+               97.6,
+               "Box Elder County"
+            ],
+            [
+               97.6,
+               "Juab County"
+            ],
+            [
+               97.6,
+               "Morgan County"
+            ],
+            [
+               97.6,
+               "Davis County"
+            ],
+            [
+               97.6,
+               "Morgan County"
+            ],
+            [
+               97.6,
+               "Davis County"
+            ],
+            [
+               97.6,
+               "Box Elder County"
+            ],
+            [
+               97.6,
+               "Juab County"
+            ],
+            [
+               97.6,
+               "Davis County"
+            ],
+            [
+               97.6,
+               "Juab County"
+            ],
+            [
+               97.6,
+               "Morgan County"
+            ],
+            [
+               97.6,
+               "Box Elder County"
+            ],
+            [
+               97.6,
+               "Davis County"
+            ],
+            [
+               97.6,
+               "Juab County"
+            ],
+            [
+               97.6,
+               "Morgan County"
+            ],
+            [
+               97.6,
+               "Box Elder County"
+            ],
+            [
+               97.6,
+               "Box Elder County"
+            ],
+            [
+               97.6,
+               "Morgan County"
+            ],
+            [
+               97.6,
+               "Davis County"
+            ],
+            [
+               97.6,
+               "Juab County"
+            ]
+         ],
+         "B": [
+            [
+               97.6,
+               "Washington County"
+            ],
+            [
+               97.6,
+               "Tooele County"
+            ],
+            [
+               97.6,
+               "Utah County"
+            ],
+            [
+               97.6,
+               "Salt Lake County"
+            ],
+            [
+               97.6,
+               "Weber County"
+            ],
+            [
+               97.6,
+               "Cache County"
+            ],
+            [
+               97.6,
+               "Tooele County"
+            ],
+            [
+               97.6,
+               "Cache County"
+            ],
+            [
+               97.6,
+               "Weber County"
+            ],
+            [
+               97.6,
+               "Washington County"
+            ],
+            [
+               97.6,
+               "Salt Lake County"
+            ],
+            [
+               97.6,
+               "Utah County"
+            ],
+            [
+               97.6,
+               "Tooele County"
+            ],
+            [
+               97.6,
+               "Washington County"
+            ],
+            [
+               97.6,
+               "Utah County"
+            ],
+            [
+               97.6,
+               "Cache County"
+            ],
+            [
+               97.6,
+               "Weber County"
+            ],
+            [
+               97.6,
+               "Salt Lake County"
+            ],
+            [
+               97.6,
+               "Weber County"
+            ],
+            [
+               97.6,
+               "Cache County"
+            ]
+         ],
+         "C": [],
+         "D": []
+      },
+      "Non-metro": {
+         "A": [
+            [
+               97.6,
+               "Kane County"
+            ],
+            [
+               97.6,
+               "Wasatch County"
+            ],
+            [
+               97.6,
+               "Daggett County"
+            ],
+            [
+               97.6,
+               "Summit County"
+            ],
+            [
+               97.6,
+               "Rich County"
+            ],
+            [
+               97.6,
+               "Wasatch County"
+            ],
+            [
+               97.6,
+               "Daggett County"
+            ],
+            [
+               97.6,
+               "Rich County"
+            ],
+            [
+               97.6,
+               "Summit County"
+            ],
+            [
+               97.6,
+               "Kane County"
+            ],
+            [
+               97.6,
+               "Daggett County"
+            ],
+            [
+               97.6,
+               "Kane County"
+            ],
+            [
+               97.6,
+               "Wasatch County"
+            ],
+            [
+               97.6,
+               "Rich County"
+            ],
+            [
+               97.6,
+               "Summit County"
+            ],
+            [
+               97.6,
+               "Daggett County"
+            ],
+            [
+               97.6,
+               "Kane County"
+            ],
+            [
+               97.6,
+               "Rich County"
+            ],
+            [
+               97.6,
+               "Wasatch County"
+            ],
+            [
+               97.6,
+               "Summit County"
+            ]
+         ],
+         "B": [
+            [
+               97.6,
+               "Iron County"
+            ],
+            [
+               97.6,
+               "Duchesne County"
+            ],
+            [
+               97.6,
+               "Wayne County"
+            ],
+            [
+               97.6,
+               "Sevier County"
+            ],
+            [
+               97.6,
+               "Garfield County"
+            ],
+            [
+               97.6,
+               "Piute County"
+            ],
+            [
+               97.6,
+               "Uintah County"
+            ],
+            [
+               97.6,
+               "Emery County"
+            ],
+            [
+               97.6,
+               "Millard County"
+            ],
+            [
+               97.6,
+               "Beaver County"
+            ],
+            [
+               97.6,
+               "Iron County"
+            ],
+            [
+               97.6,
+               "Garfield County"
+            ],
+            [
+               97.6,
+               "Millard County"
+            ],
+            [
+               97.6,
+               "Uintah County"
+            ],
+            [
+               97.6,
+               "Piute County"
+            ],
+            [
+               97.6,
+               "Duchesne County"
+            ],
+            [
+               97.6,
+               "Emery County"
+            ],
+            [
+               97.6,
+               "Sevier County"
+            ],
+            [
+               97.6,
+               "Wayne County"
+            ],
+            [
+               97.6,
+               "Beaver County"
+            ]
+         ],
+         "C": [
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Sanpete County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ],
+            [
+               97.6,
+               "Carbon County"
+            ],
+            [
+               97.6,
+               "Grand County"
+            ]
+         ],
+         "D": [
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ],
+            [
+               97.6,
+               "San Juan County"
+            ]
+         ]
+      }
+   },
+   "OH": {
+      "Metro": {
+         "A": [
+            [
+               98.5,
+               "Union County"
+            ],
+            [
+               98.5,
+               "Lake County"
+            ],
+            [
+               98.5,
+               "Wood County"
+            ],
+            [
+               98.5,
+               "Greene County"
+            ],
+            [
+               98.5,
+               "Miami County"
+            ],
+            [
+               98.5,
+               "Clermont County"
+            ],
+            [
+               98.5,
+               "Fulton County"
+            ],
+            [
+               98.5,
+               "Geauga County"
+            ],
+            [
+               98.5,
+               "Portage County"
+            ],
+            [
+               98.5,
+               "Carroll County"
+            ],
+            [
+               98.5,
+               "Warren County"
+            ],
+            [
+               98.5,
+               "Delaware County"
+            ],
+            [
+               98.5,
+               "Morrow County"
+            ],
+            [
+               98.5,
+               "Fairfield County"
+            ],
+            [
+               98.5,
+               "Licking County"
+            ],
+            [
+               98.5,
+               "Medina County"
+            ],
+            [
+               98.5,
+               "Delaware County"
+            ],
+            [
+               98.5,
+               "Wood County"
+            ],
+            [
+               98.5,
+               "Carroll County"
+            ],
+            [
+               98.5,
+               "Fulton County"
+            ]
+         ],
+         "B": [
+            [
+               98.5,
+               "Belmont County"
+            ],
+            [
+               98.5,
+               "Stark County"
+            ],
+            [
+               98.5,
+               "Summit County"
+            ],
+            [
+               98.5,
+               "Butler County"
+            ],
+            [
+               98.5,
+               "Hocking County"
+            ],
+            [
+               98.5,
+               "Trumbull County"
+            ],
+            [
+               98.5,
+               "Madison County"
+            ],
+            [
+               98.5,
+               "Pickaway County"
+            ],
+            [
+               98.5,
+               "Brown County"
+            ],
+            [
+               98.5,
+               "Hocking County"
+            ],
+            [
+               98.5,
+               "Trumbull County"
+            ],
+            [
+               98.5,
+               "Brown County"
+            ],
+            [
+               98.5,
+               "Stark County"
+            ],
+            [
+               98.5,
+               "Belmont County"
+            ],
+            [
+               98.5,
+               "Summit County"
+            ],
+            [
+               98.5,
+               "Madison County"
+            ],
+            [
+               98.5,
+               "Butler County"
+            ],
+            [
+               98.5,
+               "Pickaway County"
+            ],
+            [
+               98.5,
+               "Belmont County"
+            ],
+            [
+               98.5,
+               "Madison County"
+            ]
+         ],
+         "C": [
+            [
+               98.5,
+               "Mahoning County"
+            ],
+            [
+               98.5,
+               "Clark County"
+            ],
+            [
+               98.5,
+               "Cuyahoga County"
+            ],
+            [
+               98.5,
+               "Richland County"
+            ],
+            [
+               98.5,
+               "Jefferson County"
+            ],
+            [
+               98.5,
+               "Lorain County"
+            ],
+            [
+               98.5,
+               "Lucas County"
+            ],
+            [
+               98.5,
+               "Perry County"
+            ],
+            [
+               98.5,
+               "Franklin County"
+            ],
+            [
+               98.5,
+               "Hamilton County"
+            ],
+            [
+               98.5,
+               "Allen County"
+            ],
+            [
+               98.5,
+               "Lawrence County"
+            ],
+            [
+               98.5,
+               "Montgomery County"
+            ],
+            [
+               98.5,
+               "Cuyahoga County"
+            ],
+            [
+               98.5,
+               "Lawrence County"
+            ],
+            [
+               98.5,
+               "Lucas County"
+            ],
+            [
+               98.5,
+               "Franklin County"
+            ],
+            [
+               98.5,
+               "Jefferson County"
+            ],
+            [
+               98.5,
+               "Montgomery County"
+            ],
+            [
+               98.5,
+               "Lorain County"
+            ]
+         ],
+         "D": []
+      },
+      "Non-metro": {
+         "A": [
+            [
+               98.5,
+               "Defiance County"
+            ],
+            [
+               98.5,
+               "Henry County"
+            ],
+            [
+               98.5,
+               "Van Wert County"
+            ],
+            [
+               98.5,
+               "Putnam County"
+            ],
+            [
+               98.5,
+               "Mercer County"
+            ],
+            [
+               98.5,
+               "Wyandot County"
+            ],
+            [
+               98.5,
+               "Shelby County"
+            ],
+            [
+               98.5,
+               "Auglaize County"
+            ],
+            [
+               98.5,
+               "Hancock County"
+            ],
+            [
+               98.5,
+               "Ottawa County"
+            ],
+            [
+               98.5,
+               "Preble County"
+            ],
+            [
+               98.5,
+               "Darke County"
+            ],
+            [
+               98.5,
+               "Ottawa County"
+            ],
+            [
+               98.5,
+               "Van Wert County"
+            ],
+            [
+               98.5,
+               "Mercer County"
+            ],
+            [
+               98.5,
+               "Wyandot County"
+            ],
+            [
+               98.5,
+               "Hancock County"
+            ],
+            [
+               98.5,
+               "Shelby County"
+            ],
+            [
+               98.5,
+               "Preble County"
+            ],
+            [
+               98.5,
+               "Defiance County"
+            ]
+         ],
+         "B": [
+            [
+               98.5,
+               "Huron County"
+            ],
+            [
+               98.5,
+               "Noble County"
+            ],
+            [
+               98.5,
+               "Seneca County"
+            ],
+            [
+               98.5,
+               "Clinton County"
+            ],
+            [
+               98.5,
+               "Holmes County"
+            ],
+            [
+               98.5,
+               "Erie County"
+            ],
+            [
+               98.5,
+               "Wayne County"
+            ],
+            [
+               98.5,
+               "Knox County"
+            ],
+            [
+               98.5,
+               "Ashland County"
+            ],
+            [
+               98.5,
+               "Champaign County"
+            ],
+            [
+               98.5,
+               "Paulding County"
+            ],
+            [
+               98.5,
+               "Columbiana County"
+            ],
+            [
+               98.5,
+               "Hardin County"
+            ],
+            [
+               98.5,
+               "Williams County"
+            ],
+            [
+               98.5,
+               "Logan County"
+            ],
+            [
+               98.5,
+               "Sandusky County"
+            ],
+            [
+               98.5,
+               "Crawford County"
+            ],
+            [
+               98.5,
+               "Monroe County"
+            ],
+            [
+               98.5,
+               "Tuscarawas County"
+            ],
+            [
+               98.5,
+               "Washington County"
+            ]
+         ],
+         "C": [
+            [
+               98.5,
+               "Coshocton County"
+            ],
+            [
+               98.5,
+               "Muskingum County"
+            ],
+            [
+               98.5,
+               "Ross County"
+            ],
+            [
+               98.5,
+               "Athens County"
+            ],
+            [
+               98.5,
+               "Harrison County"
+            ],
+            [
+               98.5,
+               "Morgan County"
+            ],
+            [
+               98.5,
+               "Meigs County"
+            ],
+            [
+               98.5,
+               "Marion County"
+            ],
+            [
+               98.5,
+               "Guernsey County"
+            ],
+            [
+               98.5,
+               "Highland County"
+            ],
+            [
+               98.5,
+               "Fayette County"
+            ],
+            [
+               98.5,
+               "Vinton County"
+            ],
+            [
+               98.5,
+               "Gallia County"
+            ],
+            [
+               98.5,
+               "Marion County"
+            ],
+            [
+               98.5,
+               "Morgan County"
+            ],
+            [
+               98.5,
+               "Highland County"
+            ],
+            [
+               98.5,
+               "Harrison County"
+            ],
+            [
+               98.5,
+               "Gallia County"
+            ],
+            [
+               98.5,
+               "Meigs County"
+            ],
+            [
+               98.5,
+               "Fayette County"
+            ]
+         ],
+         "D": [
+            [
+               98.5,
+               "Jackson County"
+            ],
+            [
+               98.5,
+               "Adams County"
+            ],
+            [
+               98.5,
+               "Ashtabula County"
+            ],
+            [
+               98.5,
+               "Pike County"
+            ],
+            [
+               98.5,
+               "Scioto County"
+            ],
+            [
+               98.5,
+               "Pike County"
+            ],
+            [
+               98.5,
+               "Jackson County"
+            ],
+            [
+               98.5,
+               "Ashtabula County"
+            ],
+            [
+               98.5,
+               "Scioto County"
+            ],
+            [
+               98.5,
+               "Adams County"
+            ],
+            [
+               98.5,
+               "Jackson County"
+            ],
+            [
+               98.5,
+               "Pike County"
+            ],
+            [
+               98.5,
+               "Adams County"
+            ],
+            [
+               98.5,
+               "Scioto County"
+            ],
+            [
+               98.5,
+               "Ashtabula County"
+            ],
+            [
+               98.5,
+               "Adams County"
+            ],
+            [
+               98.5,
+               "Pike County"
+            ],
+            [
+               98.5,
+               "Scioto County"
+            ],
+            [
+               98.5,
+               "Ashtabula County"
+            ],
+            [
+               98.5,
+               "Jackson County"
+            ]
+         ]
+      }
+   },
+   "NC": {
+      "Metro": {
+         "A": [
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Union County"
+            ],
+            [
+               96.9,
+               "Currituck County"
+            ]
+         ],
+         "B": [
+            [
+               96.9,
+               "Haywood County"
+            ],
+            [
+               96.9,
+               "Cabarrus County"
+            ],
+            [
+               96.9,
+               "Orange County"
+            ],
+            [
+               96.9,
+               "Buncombe County"
+            ],
+            [
+               96.9,
+               "Stokes County"
+            ],
+            [
+               96.9,
+               "Gates County"
+            ],
+            [
+               96.9,
+               "Lincoln County"
+            ],
+            [
+               96.9,
+               "Henderson County"
+            ],
+            [
+               96.9,
+               "Chatham County"
+            ],
+            [
+               96.9,
+               "Madison County"
+            ],
+            [
+               96.9,
+               "Mecklenburg County"
+            ],
+            [
+               96.9,
+               "Davie County"
+            ],
+            [
+               96.9,
+               "Iredell County"
+            ],
+            [
+               96.9,
+               "Wake County"
+            ],
+            [
+               96.9,
+               "Brunswick County"
+            ],
+            [
+               96.9,
+               "New Hanover County"
+            ],
+            [
+               96.9,
+               "Henderson County"
+            ],
+            [
+               96.9,
+               "Orange County"
+            ],
+            [
+               96.9,
+               "Wake County"
+            ],
+            [
+               96.9,
+               "Brunswick County"
+            ]
+         ],
+         "C": [
+            [
+               96.9,
+               "Gaston County"
+            ],
+            [
+               96.9,
+               "Forsyth County"
+            ],
+            [
+               96.9,
+               "Onslow County"
+            ],
+            [
+               96.9,
+               "Davidson County"
+            ],
+            [
+               96.9,
+               "Franklin County"
+            ],
+            [
+               96.9,
+               "Pamlico County"
+            ],
+            [
+               96.9,
+               "Pender County"
+            ],
+            [
+               96.9,
+               "Johnston County"
+            ],
+            [
+               96.9,
+               "Caldwell County"
+            ],
+            [
+               96.9,
+               "Alexander County"
+            ],
+            [
+               96.9,
+               "Guilford County"
+            ],
+            [
+               96.9,
+               "Catawba County"
+            ],
+            [
+               96.9,
+               "Yadkin County"
+            ],
+            [
+               96.9,
+               "Durham County"
+            ],
+            [
+               96.9,
+               "Randolph County"
+            ],
+            [
+               96.9,
+               "Johnston County"
+            ],
+            [
+               96.9,
+               "Davidson County"
+            ],
+            [
+               96.9,
+               "Pamlico County"
+            ],
+            [
+               96.9,
+               "Gaston County"
+            ],
+            [
+               96.9,
+               "Durham County"
+            ]
+         ],
+         "D": [
+            [
+               96.9,
+               "Wayne County"
+            ],
+            [
+               96.9,
+               "Rockingham County"
+            ],
+            [
+               96.9,
+               "Pitt County"
+            ],
+            [
+               96.9,
+               "Craven County"
+            ],
+            [
+               96.9,
+               "Hoke County"
+            ],
+            [
+               96.9,
+               "Jones County"
+            ],
+            [
+               96.9,
+               "Alamance County"
+            ],
+            [
+               96.9,
+               "Person County"
+            ],
+            [
+               96.9,
+               "Cumberland County"
+            ],
+            [
+               96.9,
+               "Burke County"
+            ],
+            [
+               96.9,
+               "Edgecombe County"
+            ],
+            [
+               96.9,
+               "Rowan County"
+            ],
+            [
+               96.9,
+               "Nash County"
+            ],
+            [
+               96.9,
+               "Edgecombe County"
+            ],
+            [
+               96.9,
+               "Alamance County"
+            ],
+            [
+               96.9,
+               "Wayne County"
+            ],
+            [
+               96.9,
+               "Burke County"
+            ],
+            [
+               96.9,
+               "Jones County"
+            ],
+            [
+               96.9,
+               "Hoke County"
+            ],
+            [
+               96.9,
+               "Craven County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Dare County"
+            ],
+            [
+               96.9,
+               "Clay County"
+            ]
+         ],
+         "B": [
+            [
+               96.9,
+               "Carteret County"
+            ],
+            [
+               96.9,
+               "Watauga County"
+            ],
+            [
+               96.9,
+               "Camden County"
+            ],
+            [
+               96.9,
+               "Ashe County"
+            ],
+            [
+               96.9,
+               "Polk County"
+            ],
+            [
+               96.9,
+               "Mitchell County"
+            ],
+            [
+               96.9,
+               "Macon County"
+            ],
+            [
+               96.9,
+               "Transylvania County"
+            ],
+            [
+               96.9,
+               "Moore County"
+            ],
+            [
+               96.9,
+               "Cherokee County"
+            ],
+            [
+               96.9,
+               "Watauga County"
+            ],
+            [
+               96.9,
+               "Carteret County"
+            ],
+            [
+               96.9,
+               "Ashe County"
+            ],
+            [
+               96.9,
+               "Moore County"
+            ],
+            [
+               96.9,
+               "Polk County"
+            ],
+            [
+               96.9,
+               "Macon County"
+            ],
+            [
+               96.9,
+               "Cherokee County"
+            ],
+            [
+               96.9,
+               "Transylvania County"
+            ],
+            [
+               96.9,
+               "Camden County"
+            ],
+            [
+               96.9,
+               "Mitchell County"
+            ]
+         ],
+         "C": [
+            [
+               96.9,
+               "Granville County"
+            ],
+            [
+               96.9,
+               "Wilkes County"
+            ],
+            [
+               96.9,
+               "Stanly County"
+            ],
+            [
+               96.9,
+               "Yancey County"
+            ],
+            [
+               96.9,
+               "Beaufort County"
+            ],
+            [
+               96.9,
+               "Graham County"
+            ],
+            [
+               96.9,
+               "Jackson County"
+            ],
+            [
+               96.9,
+               "Alleghany County"
+            ],
+            [
+               96.9,
+               "Avery County"
+            ],
+            [
+               96.9,
+               "Perquimans County"
+            ],
+            [
+               96.9,
+               "Surry County"
+            ],
+            [
+               96.9,
+               "Graham County"
+            ],
+            [
+               96.9,
+               "Avery County"
+            ],
+            [
+               96.9,
+               "Surry County"
+            ],
+            [
+               96.9,
+               "Alleghany County"
+            ],
+            [
+               96.9,
+               "Perquimans County"
+            ],
+            [
+               96.9,
+               "Jackson County"
+            ],
+            [
+               96.9,
+               "Wilkes County"
+            ],
+            [
+               96.9,
+               "Stanly County"
+            ],
+            [
+               96.9,
+               "Granville County"
+            ]
+         ],
+         "D": [
+            [
+               96.9,
+               "Duplin County"
+            ],
+            [
+               96.9,
+               "Caswell County"
+            ],
+            [
+               96.9,
+               "Swain County"
+            ],
+            [
+               96.9,
+               "Anson County"
+            ],
+            [
+               96.9,
+               "Pasquotank County"
+            ],
+            [
+               96.9,
+               "Sampson County"
+            ],
+            [
+               96.9,
+               "Warren County"
+            ],
+            [
+               96.9,
+               "Bertie County"
+            ],
+            [
+               96.9,
+               "Robeson County"
+            ],
+            [
+               96.9,
+               "Bladen County"
+            ],
+            [
+               96.9,
+               "Washington County"
+            ],
+            [
+               96.9,
+               "Montgomery County"
+            ],
+            [
+               96.9,
+               "Hyde County"
+            ],
+            [
+               96.9,
+               "Scotland County"
+            ],
+            [
+               96.9,
+               "Vance County"
+            ],
+            [
+               96.9,
+               "Wilson County"
+            ],
+            [
+               96.9,
+               "Cleveland County"
+            ],
+            [
+               96.9,
+               "McDowell County"
+            ],
+            [
+               96.9,
+               "Martin County"
+            ],
+            [
+               96.9,
+               "Lenoir County"
+            ]
+         ]
+      }
+   },
+   "GA": {
+      "Metro": {
+         "A": [
+            [
+               89.5,
+               "Fayette County"
+            ],
+            [
+               89.5,
+               "Oconee County"
+            ],
+            [
+               89.5,
+               "Coweta County"
+            ],
+            [
+               89.5,
+               "Dawson County"
+            ],
+            [
+               89.5,
+               "Pike County"
+            ],
+            [
+               89.5,
+               "Forsyth County"
+            ],
+            [
+               89.5,
+               "Effingham County"
+            ],
+            [
+               89.5,
+               "Catoosa County"
+            ],
+            [
+               89.5,
+               "Paulding County"
+            ],
+            [
+               89.5,
+               "Cherokee County"
+            ],
+            [
+               89.5,
+               "Morgan County"
+            ],
+            [
+               89.5,
+               "Columbia County"
+            ],
+            [
+               89.5,
+               "Harris County"
+            ],
+            [
+               89.5,
+               "Harris County"
+            ],
+            [
+               89.5,
+               "Cherokee County"
+            ],
+            [
+               89.5,
+               "Catoosa County"
+            ],
+            [
+               89.5,
+               "Morgan County"
+            ],
+            [
+               89.5,
+               "Columbia County"
+            ],
+            [
+               89.5,
+               "Forsyth County"
+            ],
+            [
+               89.5,
+               "Effingham County"
+            ]
+         ],
+         "B": [
+            [
+               89.5,
+               "Pickens County"
+            ],
+            [
+               89.5,
+               "Bryan County"
+            ],
+            [
+               89.5,
+               "Lamar County"
+            ],
+            [
+               89.5,
+               "Walton County"
+            ],
+            [
+               89.5,
+               "Henry County"
+            ],
+            [
+               89.5,
+               "Jones County"
+            ],
+            [
+               89.5,
+               "Cobb County"
+            ],
+            [
+               89.5,
+               "Barrow County"
+            ],
+            [
+               89.5,
+               "Lee County"
+            ],
+            [
+               89.5,
+               "Gwinnett County"
+            ],
+            [
+               89.5,
+               "Monroe County"
+            ],
+            [
+               89.5,
+               "Cobb County"
+            ],
+            [
+               89.5,
+               "Jones County"
+            ],
+            [
+               89.5,
+               "Lee County"
+            ],
+            [
+               89.5,
+               "Henry County"
+            ],
+            [
+               89.5,
+               "Lamar County"
+            ],
+            [
+               89.5,
+               "Pickens County"
+            ],
+            [
+               89.5,
+               "Gwinnett County"
+            ],
+            [
+               89.5,
+               "Monroe County"
+            ],
+            [
+               89.5,
+               "Walton County"
+            ]
+         ],
+         "C": [
+            [
+               89.5,
+               "Chatham County"
+            ],
+            [
+               89.5,
+               "Heard County"
+            ],
+            [
+               89.5,
+               "DeKalb County"
+            ],
+            [
+               89.5,
+               "Haralson County"
+            ],
+            [
+               89.5,
+               "Hall County"
+            ],
+            [
+               89.5,
+               "Newton County"
+            ],
+            [
+               89.5,
+               "Lincoln County"
+            ],
+            [
+               89.5,
+               "Brantley County"
+            ],
+            [
+               89.5,
+               "Chattahoochee County"
+            ],
+            [
+               89.5,
+               "Oglethorpe County"
+            ],
+            [
+               89.5,
+               "Walker County"
+            ],
+            [
+               89.5,
+               "Houston County"
+            ],
+            [
+               89.5,
+               "Crawford County"
+            ],
+            [
+               89.5,
+               "Fulton County"
+            ],
+            [
+               89.5,
+               "Bartow County"
+            ],
+            [
+               89.5,
+               "Douglas County"
+            ],
+            [
+               89.5,
+               "Madison County"
+            ],
+            [
+               89.5,
+               "McIntosh County"
+            ],
+            [
+               89.5,
+               "Glynn County"
+            ],
+            [
+               89.5,
+               "Rockdale County"
+            ]
+         ],
+         "D": [
+            [
+               89.5,
+               "Terrell County"
+            ],
+            [
+               89.5,
+               "Clayton County"
+            ],
+            [
+               89.5,
+               "Richmond County"
+            ],
+            [
+               89.5,
+               "Long County"
+            ],
+            [
+               89.5,
+               "McDuffie County"
+            ],
+            [
+               89.5,
+               "Liberty County"
+            ],
+            [
+               89.5,
+               "Whitfield County"
+            ],
+            [
+               89.5,
+               "Bibb County"
+            ],
+            [
+               89.5,
+               "Brooks County"
+            ],
+            [
+               89.5,
+               "Muscogee County"
+            ],
+            [
+               89.5,
+               "Meriwether County"
+            ],
+            [
+               89.5,
+               "Spalding County"
+            ],
+            [
+               89.5,
+               "Pulaski County"
+            ],
+            [
+               89.5,
+               "Dougherty County"
+            ],
+            [
+               89.5,
+               "Floyd County"
+            ],
+            [
+               89.5,
+               "Lanier County"
+            ],
+            [
+               89.5,
+               "Carroll County"
+            ],
+            [
+               89.5,
+               "Marion County"
+            ],
+            [
+               89.5,
+               "Butts County"
+            ],
+            [
+               89.5,
+               "Lowndes County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.5,
+               "White County"
+            ],
+            [
+               89.6,
+               "White County"
+            ]
+         ],
+         "B": [
+            [
+               89.5,
+               "Towns County"
+            ],
+            [
+               89.5,
+               "Jackson County"
+            ],
+            [
+               89.5,
+               "Putnam County"
+            ],
+            [
+               89.5,
+               "Lumpkin County"
+            ],
+            [
+               89.5,
+               "Union County"
+            ],
+            [
+               89.5,
+               "Fannin County"
+            ],
+            [
+               89.5,
+               "Union County"
+            ],
+            [
+               89.5,
+               "Lumpkin County"
+            ],
+            [
+               89.5,
+               "Putnam County"
+            ],
+            [
+               89.5,
+               "Fannin County"
+            ],
+            [
+               89.5,
+               "Jackson County"
+            ],
+            [
+               89.5,
+               "Towns County"
+            ],
+            [
+               89.5,
+               "Towns County"
+            ],
+            [
+               89.5,
+               "Lumpkin County"
+            ],
+            [
+               89.5,
+               "Union County"
+            ],
+            [
+               89.5,
+               "Fannin County"
+            ],
+            [
+               89.5,
+               "Putnam County"
+            ],
+            [
+               89.5,
+               "Jackson County"
+            ],
+            [
+               89.5,
+               "Towns County"
+            ],
+            [
+               89.5,
+               "Lumpkin County"
+            ]
+         ],
+         "C": [
+            [
+               89.5,
+               "Pierce County"
+            ],
+            [
+               89.5,
+               "Banks County"
+            ],
+            [
+               89.5,
+               "Camden County"
+            ],
+            [
+               89.5,
+               "Hart County"
+            ],
+            [
+               89.5,
+               "Rabun County"
+            ],
+            [
+               89.5,
+               "Habersham County"
+            ],
+            [
+               89.5,
+               "Greene County"
+            ],
+            [
+               89.5,
+               "Bleckley County"
+            ],
+            [
+               89.5,
+               "Gilmer County"
+            ],
+            [
+               89.5,
+               "Glascock County"
+            ],
+            [
+               89.5,
+               "Camden County"
+            ],
+            [
+               89.5,
+               "Habersham County"
+            ],
+            [
+               89.5,
+               "Greene County"
+            ],
+            [
+               89.5,
+               "Banks County"
+            ],
+            [
+               89.5,
+               "Gilmer County"
+            ],
+            [
+               89.5,
+               "Pierce County"
+            ],
+            [
+               89.5,
+               "Glascock County"
+            ],
+            [
+               89.5,
+               "Rabun County"
+            ],
+            [
+               89.5,
+               "Bleckley County"
+            ],
+            [
+               89.5,
+               "Hart County"
+            ]
+         ],
+         "D": [
+            [
+               89.5,
+               "Berrien County"
+            ],
+            [
+               89.5,
+               "Bulloch County"
+            ],
+            [
+               89.5,
+               "Wheeler County"
+            ],
+            [
+               89.5,
+               "Hancock County"
+            ],
+            [
+               89.5,
+               "Cook County"
+            ],
+            [
+               89.5,
+               "Emanuel County"
+            ],
+            [
+               89.5,
+               "Crisp County"
+            ],
+            [
+               89.5,
+               "Stephens County"
+            ],
+            [
+               89.5,
+               "Treutlen County"
+            ],
+            [
+               89.5,
+               "Troup County"
+            ],
+            [
+               89.5,
+               "Polk County"
+            ],
+            [
+               89.5,
+               "Talbot County"
+            ],
+            [
+               89.5,
+               "Miller County"
+            ],
+            [
+               89.5,
+               "Mitchell County"
+            ],
+            [
+               89.5,
+               "Candler County"
+            ],
+            [
+               89.5,
+               "Laurens County"
+            ],
+            [
+               89.5,
+               "Turner County"
+            ],
+            [
+               89.5,
+               "Decatur County"
+            ],
+            [
+               89.5,
+               "Atkinson County"
+            ],
+            [
+               89.5,
+               "Macon County"
+            ]
+         ]
+      }
+   },
+   "IL": {
+      "Metro": {
+         "A": [
+            [
+               98.3,
+               "Calhoun County"
+            ],
+            [
+               98.3,
+               "Grundy County"
+            ],
+            [
+               98.3,
+               "Will County"
+            ],
+            [
+               98.3,
+               "DuPage County"
+            ],
+            [
+               98.3,
+               "Menard County"
+            ],
+            [
+               98.3,
+               "Monroe County"
+            ],
+            [
+               98.3,
+               "Woodford County"
+            ],
+            [
+               98.3,
+               "Jersey County"
+            ],
+            [
+               98.3,
+               "Stark County"
+            ],
+            [
+               98.3,
+               "Marshall County"
+            ],
+            [
+               98.3,
+               "Tazewell County"
+            ],
+            [
+               98.3,
+               "De Witt County"
+            ],
+            [
+               98.3,
+               "Henry County"
+            ],
+            [
+               98.3,
+               "Piatt County"
+            ],
+            [
+               98.3,
+               "McHenry County"
+            ],
+            [
+               98.3,
+               "Clinton County"
+            ],
+            [
+               98.3,
+               "McLean County"
+            ],
+            [
+               98.3,
+               "Kendall County"
+            ],
+            [
+               98.3,
+               "Macoupin County"
+            ],
+            [
+               98.3,
+               "Mercer County"
+            ]
+         ],
+         "B": [
+            [
+               98.3,
+               "Sangamon County"
+            ],
+            [
+               98.3,
+               "Lake County"
+            ],
+            [
+               98.3,
+               "Champaign County"
+            ],
+            [
+               98.3,
+               "Ford County"
+            ],
+            [
+               98.3,
+               "Kane County"
+            ],
+            [
+               98.3,
+               "Williamson County"
+            ],
+            [
+               98.3,
+               "Bond County"
+            ],
+            [
+               98.3,
+               "Boone County"
+            ],
+            [
+               98.3,
+               "Madison County"
+            ],
+            [
+               98.3,
+               "DeKalb County"
+            ],
+            [
+               98.3,
+               "Boone County"
+            ],
+            [
+               98.3,
+               "Champaign County"
+            ],
+            [
+               98.3,
+               "Ford County"
+            ],
+            [
+               98.3,
+               "Sangamon County"
+            ],
+            [
+               98.3,
+               "Madison County"
+            ],
+            [
+               98.3,
+               "Bond County"
+            ],
+            [
+               98.3,
+               "Williamson County"
+            ],
+            [
+               98.3,
+               "DeKalb County"
+            ],
+            [
+               98.3,
+               "Lake County"
+            ],
+            [
+               98.3,
+               "Kane County"
+            ]
+         ],
+         "C": [
+            [
+               98.3,
+               "Rock Island County"
+            ],
+            [
+               98.3,
+               "Kankakee County"
+            ],
+            [
+               98.3,
+               "Jackson County"
+            ],
+            [
+               98.3,
+               "Cook County"
+            ],
+            [
+               98.3,
+               "St. Clair County"
+            ],
+            [
+               98.3,
+               "Peoria County"
+            ],
+            [
+               98.3,
+               "Winnebago County"
+            ],
+            [
+               98.3,
+               "Macon County"
+            ],
+            [
+               98.3,
+               "St. Clair County"
+            ],
+            [
+               98.3,
+               "Macon County"
+            ],
+            [
+               98.3,
+               "Jackson County"
+            ],
+            [
+               98.3,
+               "Cook County"
+            ],
+            [
+               98.3,
+               "Rock Island County"
+            ],
+            [
+               98.3,
+               "Kankakee County"
+            ],
+            [
+               98.3,
+               "Winnebago County"
+            ],
+            [
+               98.3,
+               "Peoria County"
+            ],
+            [
+               98.3,
+               "Winnebago County"
+            ],
+            [
+               98.3,
+               "Kankakee County"
+            ],
+            [
+               98.3,
+               "Peoria County"
+            ],
+            [
+               98.3,
+               "Jackson County"
+            ]
+         ],
+         "D": [
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ],
+            [
+               98.3,
+               "Vermilion County"
+            ],
+            [
+               98.3,
+               "Alexander County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               98.3,
+               "Jasper County"
+            ],
+            [
+               98.3,
+               "Effingham County"
+            ],
+            [
+               98.3,
+               "Christian County"
+            ],
+            [
+               98.3,
+               "Henderson County"
+            ],
+            [
+               98.3,
+               "Putnam County"
+            ],
+            [
+               98.3,
+               "Edwards County"
+            ],
+            [
+               98.3,
+               "Carroll County"
+            ],
+            [
+               98.3,
+               "Jo Daviess County"
+            ],
+            [
+               98.3,
+               "Clark County"
+            ],
+            [
+               98.3,
+               "Adams County"
+            ],
+            [
+               98.3,
+               "Logan County"
+            ],
+            [
+               98.3,
+               "Washington County"
+            ],
+            [
+               98.3,
+               "Hancock County"
+            ],
+            [
+               98.3,
+               "Cumberland County"
+            ],
+            [
+               98.3,
+               "Greene County"
+            ],
+            [
+               98.3,
+               "Shelby County"
+            ],
+            [
+               98.3,
+               "Scott County"
+            ],
+            [
+               98.3,
+               "Hamilton County"
+            ],
+            [
+               98.3,
+               "Washington County"
+            ],
+            [
+               98.3,
+               "Putnam County"
+            ]
+         ],
+         "B": [
+            [
+               98.3,
+               "Iroquois County"
+            ],
+            [
+               98.3,
+               "Ogle County"
+            ],
+            [
+               98.3,
+               "Brown County"
+            ],
+            [
+               98.3,
+               "Livingston County"
+            ],
+            [
+               98.3,
+               "Douglas County"
+            ],
+            [
+               98.3,
+               "Wabash County"
+            ],
+            [
+               98.3,
+               "Randolph County"
+            ],
+            [
+               98.3,
+               "Wayne County"
+            ],
+            [
+               98.3,
+               "Moultrie County"
+            ],
+            [
+               98.3,
+               "Richland County"
+            ],
+            [
+               98.3,
+               "Pike County"
+            ],
+            [
+               98.3,
+               "Crawford County"
+            ],
+            [
+               98.3,
+               "Montgomery County"
+            ],
+            [
+               98.3,
+               "Bureau County"
+            ],
+            [
+               98.3,
+               "Mason County"
+            ],
+            [
+               98.3,
+               "Coles County"
+            ],
+            [
+               98.3,
+               "Gallatin County"
+            ],
+            [
+               98.3,
+               "Whiteside County"
+            ],
+            [
+               98.3,
+               "Stephenson County"
+            ],
+            [
+               98.3,
+               "Johnson County"
+            ]
+         ],
+         "C": [
+            [
+               98.3,
+               "Perry County"
+            ],
+            [
+               98.3,
+               "White County"
+            ],
+            [
+               98.3,
+               "Schuyler County"
+            ],
+            [
+               98.3,
+               "Clay County"
+            ],
+            [
+               98.3,
+               "Union County"
+            ],
+            [
+               98.3,
+               "McDonough County"
+            ],
+            [
+               98.3,
+               "Knox County"
+            ],
+            [
+               98.3,
+               "Fulton County"
+            ],
+            [
+               98.3,
+               "Fayette County"
+            ],
+            [
+               98.3,
+               "Franklin County"
+            ],
+            [
+               98.3,
+               "Morgan County"
+            ],
+            [
+               98.3,
+               "Pulaski County"
+            ],
+            [
+               98.3,
+               "Marion County"
+            ],
+            [
+               98.3,
+               "Warren County"
+            ],
+            [
+               98.3,
+               "Cass County"
+            ],
+            [
+               98.3,
+               "Hardin County"
+            ],
+            [
+               98.3,
+               "Morgan County"
+            ],
+            [
+               98.3,
+               "Fayette County"
+            ],
+            [
+               98.3,
+               "Hardin County"
+            ],
+            [
+               98.3,
+               "Clay County"
+            ]
+         ],
+         "D": [
+            [
+               98.3,
+               "Massac County"
+            ],
+            [
+               98.3,
+               "Jefferson County"
+            ],
+            [
+               98.3,
+               "Lawrence County"
+            ],
+            [
+               98.3,
+               "Saline County"
+            ],
+            [
+               98.3,
+               "Lawrence County"
+            ],
+            [
+               98.3,
+               "Saline County"
+            ],
+            [
+               98.3,
+               "Jefferson County"
+            ],
+            [
+               98.3,
+               "Massac County"
+            ],
+            [
+               98.3,
+               "Jefferson County"
+            ],
+            [
+               98.3,
+               "Lawrence County"
+            ],
+            [
+               98.3,
+               "Massac County"
+            ],
+            [
+               98.3,
+               "Saline County"
+            ],
+            [
+               98.3,
+               "Saline County"
+            ],
+            [
+               98.3,
+               "Jefferson County"
+            ],
+            [
+               98.3,
+               "Lawrence County"
+            ],
+            [
+               98.3,
+               "Massac County"
+            ],
+            [
+               98.3,
+               "Saline County"
+            ],
+            [
+               98.3,
+               "Massac County"
+            ],
+            [
+               98.3,
+               "Jefferson County"
+            ],
+            [
+               98.3,
+               "Lawrence County"
+            ]
+         ]
+      }
+   },
+   "KY": {
+      "Metro": {
+         "A": [
+            [
+               94.0,
+               "Bullitt County"
+            ],
+            [
+               94.0,
+               "Campbell County"
+            ],
+            [
+               94.0,
+               "Oldham County"
+            ],
+            [
+               94.0,
+               "Boone County"
+            ],
+            [
+               94.0,
+               "Woodford County"
+            ],
+            [
+               94.0,
+               "Spencer County"
+            ],
+            [
+               94.0,
+               "Woodford County"
+            ],
+            [
+               94.0,
+               "Spencer County"
+            ],
+            [
+               94.0,
+               "Campbell County"
+            ],
+            [
+               94.0,
+               "Oldham County"
+            ],
+            [
+               94.0,
+               "Bullitt County"
+            ],
+            [
+               94.0,
+               "Boone County"
+            ],
+            [
+               94.0,
+               "Campbell County"
+            ],
+            [
+               94.0,
+               "Spencer County"
+            ],
+            [
+               94.0,
+               "Woodford County"
+            ],
+            [
+               94.0,
+               "Boone County"
+            ],
+            [
+               94.0,
+               "Oldham County"
+            ],
+            [
+               94.0,
+               "Bullitt County"
+            ],
+            [
+               94.0,
+               "Bullitt County"
+            ],
+            [
+               94.0,
+               "Woodford County"
+            ]
+         ],
+         "B": [
+            [
+               94.0,
+               "Kenton County"
+            ],
+            [
+               94.0,
+               "Scott County"
+            ],
+            [
+               94.0,
+               "Hancock County"
+            ],
+            [
+               94.0,
+               "Greenup County"
+            ],
+            [
+               94.0,
+               "Trigg County"
+            ],
+            [
+               94.0,
+               "McLean County"
+            ],
+            [
+               94.0,
+               "Bracken County"
+            ],
+            [
+               94.0,
+               "Meade County"
+            ],
+            [
+               94.0,
+               "Shelby County"
+            ],
+            [
+               94.0,
+               "Fayette County"
+            ],
+            [
+               94.0,
+               "Pendleton County"
+            ],
+            [
+               94.0,
+               "McLean County"
+            ],
+            [
+               94.0,
+               "Greenup County"
+            ],
+            [
+               94.0,
+               "Meade County"
+            ],
+            [
+               94.0,
+               "Fayette County"
+            ],
+            [
+               94.0,
+               "Pendleton County"
+            ],
+            [
+               94.0,
+               "Trigg County"
+            ],
+            [
+               94.0,
+               "Hancock County"
+            ],
+            [
+               94.0,
+               "Kenton County"
+            ],
+            [
+               94.0,
+               "Shelby County"
+            ]
+         ],
+         "C": [
+            [
+               94.0,
+               "Jessamine County"
+            ],
+            [
+               94.0,
+               "Jefferson County"
+            ],
+            [
+               94.0,
+               "Trimble County"
+            ],
+            [
+               94.0,
+               "Warren County"
+            ],
+            [
+               94.0,
+               "Hardin County"
+            ],
+            [
+               94.0,
+               "Larue County"
+            ],
+            [
+               94.0,
+               "Allen County"
+            ],
+            [
+               94.0,
+               "Bourbon County"
+            ],
+            [
+               94.0,
+               "Daviess County"
+            ],
+            [
+               94.0,
+               "Grant County"
+            ],
+            [
+               94.0,
+               "Henry County"
+            ],
+            [
+               94.0,
+               "Edmonson County"
+            ],
+            [
+               94.0,
+               "Boyd County"
+            ],
+            [
+               94.0,
+               "Gallatin County"
+            ],
+            [
+               94.0,
+               "Henderson County"
+            ],
+            [
+               94.0,
+               "Clark County"
+            ],
+            [
+               94.0,
+               "Henry County"
+            ],
+            [
+               94.0,
+               "Hardin County"
+            ],
+            [
+               94.0,
+               "Allen County"
+            ],
+            [
+               94.0,
+               "Daviess County"
+            ]
+         ],
+         "D": [
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ],
+            [
+               94.0,
+               "Butler County"
+            ],
+            [
+               94.0,
+               "Christian County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [],
+         "B": [
+            [
+               94.0,
+               "Ballard County"
+            ],
+            [
+               94.0,
+               "Crittenden County"
+            ],
+            [
+               94.0,
+               "Lyon County"
+            ],
+            [
+               94.0,
+               "Boyle County"
+            ],
+            [
+               94.0,
+               "Calloway County"
+            ],
+            [
+               94.0,
+               "McCracken County"
+            ],
+            [
+               94.0,
+               "Madison County"
+            ],
+            [
+               94.0,
+               "Mercer County"
+            ],
+            [
+               94.0,
+               "Nelson County"
+            ],
+            [
+               94.0,
+               "Simpson County"
+            ],
+            [
+               94.0,
+               "Marshall County"
+            ],
+            [
+               94.0,
+               "Anderson County"
+            ],
+            [
+               94.0,
+               "Livingston County"
+            ],
+            [
+               94.0,
+               "Garrard County"
+            ],
+            [
+               94.0,
+               "Caldwell County"
+            ],
+            [
+               94.0,
+               "Robertson County"
+            ],
+            [
+               94.0,
+               "Carlisle County"
+            ],
+            [
+               94.0,
+               "Crittenden County"
+            ],
+            [
+               94.0,
+               "Boyle County"
+            ],
+            [
+               94.0,
+               "Livingston County"
+            ]
+         ],
+         "C": [
+            [
+               94.0,
+               "Elliott County"
+            ],
+            [
+               94.0,
+               "Breckinridge County"
+            ],
+            [
+               94.0,
+               "Logan County"
+            ],
+            [
+               94.0,
+               "Mason County"
+            ],
+            [
+               94.0,
+               "Harrison County"
+            ],
+            [
+               94.0,
+               "Hickman County"
+            ],
+            [
+               94.0,
+               "Monroe County"
+            ],
+            [
+               94.0,
+               "Ohio County"
+            ],
+            [
+               94.0,
+               "Menifee County"
+            ],
+            [
+               94.0,
+               "Lewis County"
+            ],
+            [
+               94.0,
+               "Washington County"
+            ],
+            [
+               94.0,
+               "Jackson County"
+            ],
+            [
+               94.0,
+               "Wayne County"
+            ],
+            [
+               94.0,
+               "Green County"
+            ],
+            [
+               94.0,
+               "Muhlenberg County"
+            ],
+            [
+               94.0,
+               "Taylor County"
+            ],
+            [
+               94.0,
+               "Union County"
+            ],
+            [
+               94.0,
+               "Pulaski County"
+            ],
+            [
+               94.0,
+               "Grayson County"
+            ],
+            [
+               94.0,
+               "Owen County"
+            ]
+         ],
+         "D": [
+            [
+               94.0,
+               "Lawrence County"
+            ],
+            [
+               94.0,
+               "Todd County"
+            ],
+            [
+               94.0,
+               "Floyd County"
+            ],
+            [
+               94.0,
+               "Lee County"
+            ],
+            [
+               94.0,
+               "Casey County"
+            ],
+            [
+               94.0,
+               "Leslie County"
+            ],
+            [
+               94.0,
+               "Bell County"
+            ],
+            [
+               94.0,
+               "Harlan County"
+            ],
+            [
+               94.0,
+               "Carter County"
+            ],
+            [
+               94.0,
+               "Owsley County"
+            ],
+            [
+               94.0,
+               "Russell County"
+            ],
+            [
+               94.0,
+               "Webster County"
+            ],
+            [
+               94.0,
+               "Knott County"
+            ],
+            [
+               94.0,
+               "Knox County"
+            ],
+            [
+               94.0,
+               "Rowan County"
+            ],
+            [
+               94.0,
+               "Fleming County"
+            ],
+            [
+               94.0,
+               "McCreary County"
+            ],
+            [
+               94.0,
+               "Powell County"
+            ],
+            [
+               94.0,
+               "Estill County"
+            ],
+            [
+               94.0,
+               "Breathitt County"
+            ]
+         ]
+      }
+   },
+   "MS": {
+      "Metro": {
+         "A": [],
+         "B": [
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "Rankin County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ],
+            [
+               98.1,
+               "Madison County"
+            ],
+            [
+               98.1,
+               "DeSoto County"
+            ]
+         ],
+         "C": [
+            [
+               98.1,
+               "Jackson County"
+            ],
+            [
+               98.1,
+               "Benton County"
+            ],
+            [
+               98.1,
+               "Lamar County"
+            ],
+            [
+               98.1,
+               "Hancock County"
+            ],
+            [
+               98.1,
+               "Marshall County"
+            ],
+            [
+               98.1,
+               "Perry County"
+            ],
+            [
+               98.1,
+               "Hancock County"
+            ],
+            [
+               98.1,
+               "Jackson County"
+            ],
+            [
+               98.1,
+               "Lamar County"
+            ],
+            [
+               98.1,
+               "Benton County"
+            ],
+            [
+               98.1,
+               "Marshall County"
+            ],
+            [
+               98.1,
+               "Perry County"
+            ],
+            [
+               98.1,
+               "Perry County"
+            ],
+            [
+               98.1,
+               "Lamar County"
+            ],
+            [
+               98.1,
+               "Benton County"
+            ],
+            [
+               98.1,
+               "Marshall County"
+            ],
+            [
+               98.1,
+               "Hancock County"
+            ],
+            [
+               98.1,
+               "Jackson County"
+            ],
+            [
+               98.1,
+               "Perry County"
+            ],
+            [
+               98.1,
+               "Jackson County"
+            ]
+         ],
+         "D": [
+            [
+               98.1,
+               "Hinds County"
+            ],
+            [
+               98.1,
+               "Forrest County"
+            ],
+            [
+               98.1,
+               "Yazoo County"
+            ],
+            [
+               98.1,
+               "Tate County"
+            ],
+            [
+               98.1,
+               "Tunica County"
+            ],
+            [
+               98.1,
+               "Copiah County"
+            ],
+            [
+               98.1,
+               "Simpson County"
+            ],
+            [
+               98.1,
+               "Harrison County"
+            ],
+            [
+               98.1,
+               "Harrison County"
+            ],
+            [
+               98.1,
+               "Tate County"
+            ],
+            [
+               98.1,
+               "Hinds County"
+            ],
+            [
+               98.1,
+               "Simpson County"
+            ],
+            [
+               98.1,
+               "Forrest County"
+            ],
+            [
+               98.1,
+               "Yazoo County"
+            ],
+            [
+               98.1,
+               "Tunica County"
+            ],
+            [
+               98.1,
+               "Copiah County"
+            ],
+            [
+               98.1,
+               "Harrison County"
+            ],
+            [
+               98.1,
+               "Simpson County"
+            ],
+            [
+               98.1,
+               "Hinds County"
+            ],
+            [
+               98.1,
+               "Copiah County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [],
+         "B": [
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ],
+            [
+               98.1,
+               "Smith County"
+            ]
+         ],
+         "C": [
+            [
+               98.1,
+               "Monroe County"
+            ],
+            [
+               98.1,
+               "Stone County"
+            ],
+            [
+               98.1,
+               "Lawrence County"
+            ],
+            [
+               98.1,
+               "Clay County"
+            ],
+            [
+               98.1,
+               "Webster County"
+            ],
+            [
+               98.1,
+               "Itawamba County"
+            ],
+            [
+               98.1,
+               "Alcorn County"
+            ],
+            [
+               98.1,
+               "Oktibbeha County"
+            ],
+            [
+               98.1,
+               "Pearl River County"
+            ],
+            [
+               98.1,
+               "Tishomingo County"
+            ],
+            [
+               98.1,
+               "Lafayette County"
+            ],
+            [
+               98.1,
+               "Greene County"
+            ],
+            [
+               98.1,
+               "Yalobusha County"
+            ],
+            [
+               98.1,
+               "George County"
+            ],
+            [
+               98.1,
+               "Carroll County"
+            ],
+            [
+               98.1,
+               "Clarke County"
+            ],
+            [
+               98.1,
+               "Franklin County"
+            ],
+            [
+               98.1,
+               "Clay County"
+            ],
+            [
+               98.1,
+               "Itawamba County"
+            ],
+            [
+               98.1,
+               "Clarke County"
+            ]
+         ],
+         "D": [
+            [
+               98.1,
+               "Adams County"
+            ],
+            [
+               98.1,
+               "Calhoun County"
+            ],
+            [
+               98.1,
+               "Leake County"
+            ],
+            [
+               98.1,
+               "Coahoma County"
+            ],
+            [
+               98.1,
+               "Choctaw County"
+            ],
+            [
+               98.1,
+               "Leflore County"
+            ],
+            [
+               98.1,
+               "Union County"
+            ],
+            [
+               98.1,
+               "Panola County"
+            ],
+            [
+               98.1,
+               "Lowndes County"
+            ],
+            [
+               98.1,
+               "Grenada County"
+            ],
+            [
+               98.1,
+               "Marion County"
+            ],
+            [
+               98.1,
+               "Jasper County"
+            ],
+            [
+               98.1,
+               "Jefferson County"
+            ],
+            [
+               98.1,
+               "Lincoln County"
+            ],
+            [
+               98.1,
+               "Sharkey County"
+            ],
+            [
+               98.1,
+               "Attala County"
+            ],
+            [
+               98.1,
+               "Prentiss County"
+            ],
+            [
+               98.1,
+               "Claiborne County"
+            ],
+            [
+               98.1,
+               "Jones County"
+            ],
+            [
+               98.1,
+               "Washington County"
+            ]
+         ]
+      }
+   },
+   "MO": {
+      "Metro": {
+         "A": [
+            [
+               91.3,
+               "Jefferson County"
+            ],
+            [
+               91.3,
+               "Andrew County"
+            ],
+            [
+               91.3,
+               "Cass County"
+            ],
+            [
+               91.3,
+               "Franklin County"
+            ],
+            [
+               91.3,
+               "Osage County"
+            ],
+            [
+               91.3,
+               "St. Charles County"
+            ],
+            [
+               91.3,
+               "Clay County"
+            ],
+            [
+               91.3,
+               "Clinton County"
+            ],
+            [
+               91.3,
+               "Christian County"
+            ],
+            [
+               91.3,
+               "Platte County"
+            ],
+            [
+               91.3,
+               "Platte County"
+            ],
+            [
+               91.3,
+               "Franklin County"
+            ],
+            [
+               91.3,
+               "Clinton County"
+            ],
+            [
+               91.3,
+               "Osage County"
+            ],
+            [
+               91.3,
+               "St. Charles County"
+            ],
+            [
+               91.3,
+               "Andrew County"
+            ],
+            [
+               91.3,
+               "Cass County"
+            ],
+            [
+               91.3,
+               "Jefferson County"
+            ],
+            [
+               91.3,
+               "Christian County"
+            ],
+            [
+               91.3,
+               "Clay County"
+            ]
+         ],
+         "B": [
+            [
+               91.3,
+               "Greene County"
+            ],
+            [
+               91.3,
+               "St. Louis County"
+            ],
+            [
+               91.3,
+               "Ray County"
+            ],
+            [
+               91.3,
+               "Newton County"
+            ],
+            [
+               91.3,
+               "Lincoln County"
+            ],
+            [
+               91.3,
+               "Callaway County"
+            ],
+            [
+               91.3,
+               "DeKalb County"
+            ],
+            [
+               91.3,
+               "Caldwell County"
+            ],
+            [
+               91.3,
+               "Cole County"
+            ],
+            [
+               91.3,
+               "Boone County"
+            ],
+            [
+               91.3,
+               "Lafayette County"
+            ],
+            [
+               91.3,
+               "Bates County"
+            ],
+            [
+               91.3,
+               "Cape Girardeau County"
+            ],
+            [
+               91.3,
+               "Bollinger County"
+            ],
+            [
+               91.3,
+               "Warren County"
+            ],
+            [
+               91.3,
+               "Bollinger County"
+            ],
+            [
+               91.3,
+               "Boone County"
+            ],
+            [
+               91.3,
+               "Lincoln County"
+            ],
+            [
+               91.3,
+               "Callaway County"
+            ],
+            [
+               91.3,
+               "Cape Girardeau County"
+            ]
+         ],
+         "C": [
+            [
+               91.3,
+               "Moniteau County"
+            ],
+            [
+               91.3,
+               "Jasper County"
+            ],
+            [
+               91.3,
+               "Jackson County"
+            ],
+            [
+               91.3,
+               "Polk County"
+            ],
+            [
+               91.3,
+               "Dallas County"
+            ],
+            [
+               91.3,
+               "Webster County"
+            ],
+            [
+               91.3,
+               "Buchanan County"
+            ],
+            [
+               91.3,
+               "Moniteau County"
+            ],
+            [
+               91.3,
+               "Dallas County"
+            ],
+            [
+               91.3,
+               "Polk County"
+            ],
+            [
+               91.3,
+               "Jasper County"
+            ],
+            [
+               91.3,
+               "Webster County"
+            ],
+            [
+               91.3,
+               "Buchanan County"
+            ],
+            [
+               91.3,
+               "Jackson County"
+            ],
+            [
+               91.3,
+               "Jasper County"
+            ],
+            [
+               91.3,
+               "Buchanan County"
+            ],
+            [
+               91.3,
+               "Polk County"
+            ],
+            [
+               91.3,
+               "Jackson County"
+            ],
+            [
+               91.3,
+               "Dallas County"
+            ],
+            [
+               91.3,
+               "Webster County"
+            ]
+         ],
+         "D": [
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ],
+            [
+               91.3,
+               "St. Louis city"
+            ],
+            [
+               91.3,
+               "McDonald County"
+            ]
+         ]
+      },
+      "Non-metro": {
+         "A": [
+            [
+               91.3,
+               "Holt County"
+            ],
+            [
+               91.3,
+               "Atchison County"
+            ],
+            [
+               91.3,
+               "Ralls County"
+            ],
+            [
+               91.3,
+               "Chariton County"
+            ],
+            [
+               91.3,
+               "Perry County"
+            ],
+            [
+               91.3,
+               "Gasconade County"
+            ],
+            [
+               91.3,
+               "Nodaway County"
+            ],
+            [
+               91.3,
+               "Worth County"
+            ],
+            [
+               91.3,
+               "Ste. Genevieve County"
+            ],
+            [
+               91.3,
+               "Nodaway County"
+            ],
+            [
+               91.3,
+               "Atchison County"
+            ],
+            [
+               91.3,
+               "Perry County"
+            ],
+            [
+               91.3,
+               "Worth County"
+            ],
+            [
+               91.3,
+               "Gasconade County"
+            ],
+            [
+               91.3,
+               "Ralls County"
+            ],
+            [
+               91.3,
+               "Ste. Genevieve County"
+            ],
+            [
+               91.3,
+               "Chariton County"
+            ],
+            [
+               91.3,
+               "Holt County"
+            ],
+            [
+               91.3,
+               "Worth County"
+            ],
+            [
+               91.3,
+               "Gasconade County"
+            ]
+         ],
+         "B": [
+            [
+               91.3,
+               "Johnson County"
+            ],
+            [
+               91.3,
+               "Camden County"
+            ],
+            [
+               91.3,
+               "Howard County"
+            ],
+            [
+               91.3,
+               "Vernon County"
+            ],
+            [
+               91.3,
+               "Lewis County"
+            ],
+            [
+               91.3,
+               "Stone County"
+            ],
+            [
+               91.3,
+               "Madison County"
+            ],
+            [
+               91.3,
+               "Clark County"
+            ],
+            [
+               91.3,
+               "Gentry County"
+            ],
+            [
+               91.3,
+               "St. Clair County"
+            ],
+            [
+               91.3,
+               "Cooper County"
+            ],
+            [
+               91.3,
+               "Adair County"
+            ],
+            [
+               91.3,
+               "Linn County"
+            ],
+            [
+               91.3,
+               "Monroe County"
+            ],
+            [
+               91.3,
+               "Hickory County"
+            ],
+            [
+               91.3,
+               "Stoddard County"
+            ],
+            [
+               91.3,
+               "Mercer County"
+            ],
+            [
+               91.3,
+               "Shelby County"
+            ],
+            [
+               91.3,
+               "Oregon County"
+            ],
+            [
+               91.3,
+               "Schuyler County"
+            ]
+         ],
+         "C": [
+            [
+               91.3,
+               "Ozark County"
+            ],
+            [
+               91.3,
+               "Pulaski County"
+            ],
+            [
+               91.3,
+               "Sullivan County"
+            ],
+            [
+               91.3,
+               "Carter County"
+            ],
+            [
+               91.3,
+               "Ripley County"
+            ],
+            [
+               91.3,
+               "Grundy County"
+            ],
+            [
+               91.3,
+               "Marion County"
+            ],
+            [
+               91.3,
+               "Audrain County"
+            ],
+            [
+               91.3,
+               "Douglas County"
+            ],
+            [
+               91.3,
+               "Scotland County"
+            ],
+            [
+               91.3,
+               "Dade County"
+            ],
+            [
+               91.3,
+               "Harrison County"
+            ],
+            [
+               91.3,
+               "Barton County"
+            ],
+            [
+               91.3,
+               "Reynolds County"
+            ],
+            [
+               91.3,
+               "Benton County"
+            ],
+            [
+               91.3,
+               "Morgan County"
+            ],
+            [
+               91.3,
+               "Maries County"
+            ],
+            [
+               91.3,
+               "St. Francois County"
+            ],
+            [
+               91.3,
+               "Montgomery County"
+            ],
+            [
+               91.3,
+               "Pike County"
+            ]
+         ],
+         "D": [
+            [
+               91.3,
+               "Lawrence County"
+            ],
+            [
+               91.3,
+               "New Madrid County"
+            ],
+            [
+               91.3,
+               "Mississippi County"
+            ],
+            [
+               91.3,
+               "Washington County"
+            ],
+            [
+               91.3,
+               "Crawford County"
+            ],
+            [
+               91.3,
+               "Pettis County"
+            ],
+            [
+               91.3,
+               "Iron County"
+            ],
+            [
+               91.3,
+               "Pemiscot County"
+            ],
+            [
+               91.3,
+               "Scott County"
+            ],
+            [
+               91.3,
+               "Wright County"
+            ],
+            [
+               91.3,
+               "Dunklin County"
+            ],
+            [
+               91.3,
+               "Taney County"
+            ],
+            [
+               91.3,
+               "Butler County"
+            ],
+            [
+               91.3,
+               "Saline County"
+            ],
+            [
+               91.3,
+               "Wayne County"
+            ],
+            [
+               91.3,
+               "Texas County"
+            ],
+            [
+               91.3,
+               "Taney County"
+            ],
+            [
+               91.3,
+               "Butler County"
+            ],
+            [
+               91.3,
+               "Wright County"
+            ],
+            [
+               91.3,
+               "Iron County"
+            ]
+         ]
+      }
+   }
+}

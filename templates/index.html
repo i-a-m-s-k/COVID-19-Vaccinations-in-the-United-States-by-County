@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <h1>COVID-19 Vaccinations in United States by County</h1>
+    <br>
+    <subtitle>You will be prompted to select state, Metro/Non-metro counties, and SVI category.</subtitle>
+</head>
+
+<body>
+    <br>
+    <form action="/metro" method="post">
+    <label for="state">Choose a state:</label>
+    <select name="state" id="states">
+        <option value="MI" name = "state" id = "mich">Michigan - MI</option>
+        <option value="NY">New York - NY</option>
+        <option value="UT">Utah - UT</option>
+        <option value="OH">Ohio - OH</option>
+        <option value="NC">North Carolina - NC</option>
+        <option value="GA">Georgia - GA</option>
+        <option value="IL">Illinois - IL</option>
+        <option value="KY">Kentucky - KY</option>
+        <option value="MS">Mississippi - MS</option>
+        <option value="MO">Missouri - MO</option>
+    </select>
+
+    <input type="submit" value="Submit" id="states" name="state">
+    </form>
+</body>
+
+</html>

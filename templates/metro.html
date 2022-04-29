@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>COVID-19 Vaccinations in United States by County</title>
+        <br>
+        <subtitle>You will be prompted to select state, Metro/Non-metro counties, and SVI category.</subtitle>
+        <br>
+        <br>
+    </head>
+    <body>
+        <td>
+            <form action = "/SVI" method = "post">
+                <p>Do you want to see list of Metro or Non-metro Counties?</p>
+                <input type="radio" id="metro" name="metro" value="metro">
+                <label for="metro">Metro</label><br>
+                <input type="radio" id="non-metro" name="metro" value="Non-metro">
+                <label for="metro">Non-metro</label>
+                <br>
+                <br>
+                <input type="submit" value="Submit" id="submit_metro" name="metro">
+            <form>
+        </td>
+    </body>
+</html>
